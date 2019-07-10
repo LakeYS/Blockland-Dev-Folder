@@ -1,0 +1,3 @@
+Name: Quick Admin
+Author: LakeYS
+Convenient!

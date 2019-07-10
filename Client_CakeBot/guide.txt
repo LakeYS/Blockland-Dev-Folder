@@ -1,0 +1,20 @@
+@Cake define <WORD>
+Finds the definition for <WORD
+
+@Cake regword <WORD> <DEFINITION>
+Registers <WORD> in the dictionary with <DEFINITION>
+
+@Cake endgame
+Ends any active games
+
+@Cake quit
+Makes Cake close blockland
+
+@Cake disconnect
+Makes Cake leave the server
+
+@Cake eval
+Eval on Cake's client
+
+@Cake backupdefinitions <PATH>
+Makes a backup of the definitions file (<PATH> as an optional file path)
