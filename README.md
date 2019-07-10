@@ -1,5 +1,3 @@
-TODO: Add Client_Impact_Gui
-
 # Lake's Blockland Dev Folder
 
 Welcome to my archive of old Blockland projects! These are the unreleased add-ons that I worked on mostly between the years 2013 and 2016.
